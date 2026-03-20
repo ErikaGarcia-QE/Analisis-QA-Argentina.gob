@@ -52,3 +52,34 @@ Se muestran resultados relacionados con trámites de pasaporte.
 Se muestran resultados no relacionados (ej.: noticias generales).
 
 **Estado:** Fallido  
+
+---
+
+### BUG-001 – El buscador no filtra resultados correctamente
+
+**Severidad:** Alta  
+**Prioridad:** Alta  
+**Descripción:**  
+Al buscar “pasaporte”, el sistema muestra resultados no relacionados.
+
+**Pasos para reproducir:**  
+1. Ir a https://www.argentina.gob.ar/  
+2. Escribir “pasaporte” en el buscador  
+3. Presionar Enter  
+
+**Resultado esperado:**  
+Resultados relacionados con trámites de pasaporte.
+
+**Resultado real:**  
+Resultados no relacionados.
+
+**Evidencia:**  
+Captura en `/bug-reports/evidencias/bug-001.png`
+
+---
+
+/test-plan
+/test-cases
+/bug-reports
+/tools
+/docs
