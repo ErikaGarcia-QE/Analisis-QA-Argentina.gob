@@ -1,1 +1,32 @@
+# Buenas Prácticas de Testing
+
+Estas prácticas ayudan a mejorar la calidad del proceso de pruebas y del producto final.
+
+## Principales buenas prácticas
+
+### ✔ Probar como usuario real
+Pensar en escenarios reales y comportamientos naturales.
+
+### ✔ Documentar todo
+Casos de prueba, resultados, bugs, notas exploratorias.
+
+### ✔ Priorizar según impacto
+No todos los bugs son igual de importantes.
+
+### ✔ Mantener los casos de prueba actualizados
+El producto cambia, los casos también.
+
+### ✔ Validar accesibilidad
+La accesibilidad no es opcional.
+
+### ✔ Probar en diferentes dispositivos
+Mobile, tablet y desktop.
+
+### ✔ Revisar enlaces y contenido
+Errores simples pueden afectar la experiencia del usuario.
+
+### ✔ Comunicar con claridad
+Un QA efectivo es también un buen comunicador.
+
+Estas prácticas fortalecen tu rol como analista QA y mejoran la calidad del producto.
 
