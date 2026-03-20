@@ -1,1 +1,30 @@
+# Cómo usar este repositorio
+
+Este repositorio fue creado con fines didácticos para mostrar cómo se estructura un análisis QA profesional.
+
+## ¿Qué vas a encontrar?
+
+- **Plan de pruebas:** estrategia, alcance y criterios
+- **Casos de prueba:** funcionales, exploratorios, accesibilidad y responsive
+- **Reportes de bugs:** documentados con evidencia
+- **Checklists:** UI, accesibilidad y responsive
+- **Documentación educativa:** conceptos clave de QA
+
+## ¿Cómo navegarlo?
+
+1. Comenzá por el README principal  
+2. Revisá el plan de pruebas en `/test-plan`  
+3. Explorá los casos de prueba en `/test-cases`  
+4. Mirá los bugs reales en `/bug-reports`  
+5. Consultá los checklists en `/tools`  
+6. Leé la documentación didáctica en `/docs`  
+
+## ¿Para qué sirve?
+
+- Portafolio profesional para entrevistas  
+- Ejemplo de buenas prácticas de documentación  
+- Material de estudio para QA Manual  
+- Base para futuros proyectos de testing  
+
+Este repositorio está diseñado para ser claro, completo y fácil de entender.
 
