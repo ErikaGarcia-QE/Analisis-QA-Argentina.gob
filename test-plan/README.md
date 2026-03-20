@@ -11,7 +11,9 @@ Incluye:
 - Estrategia de pruebas  
 - Entregables  
 
-El documento principal es:
+Documentos principales:
 
-- `plan-de-pruebas.md`
+- plan-de-pruebas.md
+- matriz-de-trazabilidad.md
+
 
