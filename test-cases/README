@@ -4,10 +4,13 @@ Esta carpeta contiene los casos de prueba diseñados para validar diferentes ár
 
 ## 📁 Contenido
 
-- [Casos de prueba del Home](casos-de-prueba-home.md)
-- [Casos de prueba del Buscador](casos-de-prueba-buscador.md)
-- [Casos de prueba Responsive](casos-de-prueba-responsive.md)
-- [Casos de prueba de Accesibilidad](casos-de-prueba-accesibilidad.md)
+- `casos-de-prueba-home.md`
+- `casos-de-prueba-buscador.md`
+- `casos-de-prueba-responsive.md`
+- `casos-de-prueba-accesibilidad.md`
+- `casos-de-prueba-negativos.md`
+- `casos-de-prueba-contenido.md`
+- `ejecucion-de-pruebas.md`
 
 ## 🎯 Objetivo
 
@@ -17,14 +20,13 @@ Documentar pruebas manuales claras, reproducibles y alineadas a buenas práctica
 
 - Testing funcional  
 - Testing exploratorio  
+- Testing negativo  
 - Testing responsive  
 - Accesibilidad WCAG 2.1 AA  
-- Validación de contenido y navegación  
+- Validación de contenido  
 
 ## 🧩 Relación con otros documentos
 
-Los casos de prueba están vinculados a:
-
 - `/test-plan/plan-de-pruebas.md`
 - `/test-plan/matriz-de-trazabilidad.md`
-- `/bug-reports/` (cuando un caso falla)
+- `/bug-reports/`
