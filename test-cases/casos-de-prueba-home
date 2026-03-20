@@ -1,1 +1,128 @@
+# Casos de Prueba – Home del sitio https://www.argentina.gob.ar/
+
+Este documento contiene los casos de prueba diseñados para validar el correcto funcionamiento del Home del sitio, incluyendo UI, contenido, navegación y accesibilidad básica.
+
+---
+
+## 🔹 TC-H01 – Verificar carga correcta del Home
+**Objetivo:** Validar que el Home cargue sin errores.  
+**Precondición:** Conexión estable.
+
+**Pasos:**
+1. Ingresar a https://www.argentina.gob.ar/
+2. Observar la carga inicial.
+
+**Resultado esperado:**  
+La página carga completamente sin errores 404, 500 o elementos rotos.
+
+---
+
+## 🔹 TC-H02 – Validar visibilidad del header
+**Objetivo:** Verificar que el encabezado sea visible y funcional.
+
+**Pasos:**
+1. Ingresar al Home.
+2. Verificar que el logo, menú y buscador estén visibles.
+
+**Resultado esperado:**  
+Todos los elementos del header se muestran correctamente.
+
+---
+
+## 🔹 TC-H03 – Probar funcionamiento del buscador
+**Objetivo:** Validar que el buscador responda correctamente.
+
+**Pasos:**
+1. Escribir “pasaporte” en el buscador.
+2. Presionar Enter.
+
+**Resultado esperado:**  
+Se muestran resultados relacionados con el término buscado.
+
+---
+
+## 🔹 TC-H04 – Verificar enlaces principales del Home
+**Objetivo:** Validar que los enlaces del Home funcionen.
+
+**Pasos:**
+1. Hacer clic en los enlaces principales (Trámites, Gobierno, Servicios, etc.)
+2. Verificar que cada enlace redirija correctamente.
+
+**Resultado esperado:**  
+Todos los enlaces llevan a la sección correspondiente.
+
+---
+
+## 🔹 TC-H05 – Validar funcionamiento del menú principal
+**Objetivo:** Verificar que el menú sea navegable.
+
+**Pasos:**
+1. Abrir el menú principal.
+2. Seleccionar diferentes secciones.
+
+**Resultado esperado:**  
+El menú despliega correctamente y cada opción redirige a su página.
+
+---
+
+## 🔹 TC-H06 – Verificar integridad de imágenes del Home
+**Objetivo:** Validar que no existan imágenes rotas.
+
+**Pasos:**
+1. Recorrer el Home.
+2. Observar banners, íconos y miniaturas.
+
+**Resultado esperado:**  
+Todas las imágenes cargan correctamente y no muestran íconos de error.
+
+---
+
+## 🔹 TC-H07 – Validar textos y contenido del Home
+**Objetivo:** Verificar que el contenido sea claro y sin errores.
+
+**Pasos:**
+1. Leer títulos, subtítulos y descripciones.
+2. Revisar ortografía y coherencia.
+
+**Resultado esperado:**  
+No hay errores ortográficos ni textos cortados.
+
+---
+
+## 🔹 TC-H08 – Verificar accesibilidad básica del Home
+**Objetivo:** Validar elementos esenciales de accesibilidad.
+
+**Pasos:**
+1. Navegar con TAB.
+2. Verificar foco visible.
+3. Revisar contraste de textos.
+
+**Resultado esperado:**  
+El foco es visible, el contraste es adecuado y todos los elementos son accesibles.
+
+---
+
+## 🔹 TC-H09 – Validar comportamiento del Home en mobile
+**Objetivo:** Verificar que el Home sea responsive.
+
+**Pasos:**
+1. Cambiar a vista mobile (360px).
+2. Revisar menú hamburguesa, textos e imágenes.
+
+**Resultado esperado:**  
+El Home se adapta correctamente sin desbordes ni superposiciones.
+
+---
+
+## 🔹 TC-H10 – Verificar carga de secciones destacadas
+**Objetivo:** Validar que las secciones destacadas del Home funcionen.
+
+**Pasos:**
+1. Identificar secciones como “Destacados”, “Trámites más consultados”, etc.
+2. Hacer clic en cada tarjeta.
+
+**Resultado esperado:**  
+Cada tarjeta redirige a la página correspondiente sin errores.
+
+---
 
