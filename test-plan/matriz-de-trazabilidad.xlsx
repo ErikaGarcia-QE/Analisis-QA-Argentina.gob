@@ -1,6 +1,6 @@
-# Matriz de Trazabilidad
+# 📊 Matriz de Trazabilidad – QA Manual
 
-Esta matriz relaciona los requisitos del sistema con los casos de prueba y los bugs detectados durante el proceso de QA.
+Esta matriz relaciona los **requisitos**, **casos de prueba** y **bugs detectados** durante el análisis del sitio Argentina.gob.ar.
 
 ---
 
@@ -11,12 +11,12 @@ Esta matriz relaciona los requisitos del sistema con los casos de prueba y los b
 
 ---
 
-# 📊 Matriz
+# 📊 Matriz de Trazabilidad
 
 | REQ ID | Descripción del Requisito | Casos de Prueba Asociados | Bugs Detectados |
 |--------|----------------------------|----------------------------|------------------|
 | REQ-01 | El Home debe cargar correctamente sin errores | TC-H01, TC-H06, TC-H07 | — |
-| REQ-02 | El buscador debe permitir realizar búsquedas válidas | TC-B01, TC-B03, TC-B04, TC-B08 | BUG-001 |
+| REQ-02 | El buscador debe devolver resultados relevantes | TC-B01, TC-B03, TC-B04, TC-B08 | BUG-001 |
 | REQ-03 | El buscador debe manejar búsquedas inválidas | TC-B02, TC-B09 | — |
 | REQ-04 | El buscador debe ser accesible por teclado | TC-B06, TC-B07 | — |
 | REQ-05 | El menú principal debe funcionar en desktop y mobile | TC-H05, TC-R02 | — |
@@ -28,24 +28,27 @@ Esta matriz relaciona los requisitos del sistema con los casos de prueba y los b
 
 ---
 
-# ✔ Resumen
+# ✔ Resumen General
 
 - **10 requisitos cubiertos**  
-- **30+ casos de prueba asociados**  
-- **3 bugs trazados correctamente**  
+- **30+ casos de prueba trazados**  
+- **3 bugs correctamente asociados**  
 - Cobertura completa de:  
   - Home  
   - Buscador  
   - Responsive  
   - Accesibilidad  
+  - Navegación  
+  - Contenido  
 
 ---
 
 # 📌 Notas
 
-- La matriz se puede expandir cuando agregues nuevos módulos.  
-- Si sumás automatización, podés agregar una columna “TC-AUTO”.  
-- Si agregás severidad/prioridad, podés incluir una columna “Impacto”.  
+- La matriz se actualizará si se agregan nuevos módulos o casos.  
+- Si incorporás automatización, podés agregar una columna **TC-AUTO**.  
+- Si agregás severidad/prioridad por requisito, podés sumar una columna **Impacto**.
 
 ---
+
 
