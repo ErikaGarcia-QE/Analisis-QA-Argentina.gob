@@ -1,1 +1,25 @@
+# Cómo reportar un bug correctamente
+
+Un buen reporte de bug debe ser claro, reproducible y útil para el equipo de desarrollo.
+
+## Elementos esenciales
+
+- **Título:** breve y descriptivo  
+- **Severidad:** impacto técnico  
+- **Prioridad:** urgencia de resolución  
+- **Descripción:** qué está fallando  
+- **Pasos para reproducir:** detallados y numerados  
+- **Resultado esperado:** qué debería pasar  
+- **Resultado obtenido:** qué pasa realmente  
+- **Evidencia:** capturas, videos o logs  
+
+## Buenas prácticas
+
+- Ser objetivo y evitar opiniones personales  
+- Incluir solo información relevante  
+- Asegurarse de que el bug sea reproducible  
+- Probar en más de un navegador si aplica  
+- Verificar si el bug ya fue reportado  
+
+Un bug bien reportado ahorra tiempo y evita confusiones.
 
