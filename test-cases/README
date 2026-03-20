@@ -1,33 +1,30 @@
-# 📄 Casos de Prueba
+# 🧪 Casos de Prueba
 
-Esta carpeta contiene los casos de prueba diseñados para el análisis QA del sitio https://www.argentina.gob.ar/.
+Esta carpeta contiene los casos de prueba diseñados para validar diferentes áreas del sitio Argentina.gob.ar.
 
-Los casos están organizados por módulos y tipo de prueba, con un enfoque didáctico y práctico.
+## 📁 Contenido
 
-## 📌 Contenido
-
-- `casos-de-prueba-home.md`  
-  Casos de prueba funcionales y exploratorios de la página principal.
-
-- `casos-de-prueba-buscador.md`  
-  Validaciones del buscador principal, relevancia de resultados y comportamiento esperado.
-
-- `casos-de-prueba-accesibilidad.md`  
-  Pruebas basadas en criterios WCAG 2.1 AA.
-
-- `casos-de-prueba-responsive.md`  
-  Validaciones en mobile, tablet y desktop.
-
-- `matriz-de-trazabilidad.xlsx` (opcional)  
-  Relación entre requerimientos, casos de prueba y bugs.
+- [Casos de prueba del Home](casos-de-prueba-home.md)
+- [Casos de prueba del Buscador](casos-de-prueba-buscador.md)
+- [Casos de prueba Responsive](casos-de-prueba-responsive.md)
+- [Casos de prueba de Accesibilidad](casos-de-prueba-accesibilidad.md)
 
 ## 🎯 Objetivo
 
-Documentar de forma clara y profesional el proceso de testing, mostrando:
+Documentar pruebas manuales claras, reproducibles y alineadas a buenas prácticas de QA.
 
-- Diseño de pruebas
-- Cobertura funcional
-- Organización por módulos
-- Ejemplos prácticos para portafolio
+## 🧭 Criterios utilizados
 
+- Testing funcional  
+- Testing exploratorio  
+- Testing responsive  
+- Accesibilidad WCAG 2.1 AA  
+- Validación de contenido y navegación  
 
+## 🧩 Relación con otros documentos
+
+Los casos de prueba están vinculados a:
+
+- `/test-plan/plan-de-pruebas.md`
+- `/test-plan/matriz-de-trazabilidad.md`
+- `/bug-reports/` (cuando un caso falla)
