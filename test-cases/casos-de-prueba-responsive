@@ -1,1 +1,129 @@
+# Casos de Prueba – Responsive Design
+
+Este documento contiene los casos de prueba diseñados para validar el comportamiento del sitio en diferentes tamaños de pantalla (mobile, tablet y desktop).
+
+---
+
+## 📱 TC-R01 – Verificar visualización en mobile (360px)
+**Objetivo:** Validar que el sitio se adapte correctamente a pantallas pequeñas.  
+**Precondición:** Vista mobile activada.
+
+**Pasos:**
+1. Abrir el sitio en modo mobile (360px).
+2. Revisar estructura general, textos e imágenes.
+
+**Resultado esperado:**  
+No hay desbordes horizontales, textos cortados ni elementos superpuestos.
+
+---
+
+## 📱 TC-R02 – Validar funcionamiento del menú hamburguesa
+**Objetivo:** Verificar que el menú mobile funcione correctamente.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Hacer clic en el ícono de menú.
+3. Navegar entre las opciones.
+
+**Resultado esperado:**  
+El menú se despliega correctamente y permite navegar sin errores.
+
+---
+
+## 📱 TC-R03 – Verificar adaptabilidad de imágenes en mobile
+**Objetivo:** Validar que las imágenes se ajusten al ancho disponible.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Revisar banners, íconos y miniaturas.
+
+**Resultado esperado:**  
+Las imágenes se adaptan sin deformarse ni salirse del contenedor.
+
+---
+
+## 📱 TC-R04 – Validar tamaño de botones en mobile
+**Objetivo:** Verificar que los botones sean accesibles en pantallas pequeñas.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Revisar botones principales y secundarios.
+
+**Resultado esperado:**  
+Los botones tienen tamaño adecuado para interacción táctil.
+
+---
+
+## 📱 TC-R05 – Verificar formularios en mobile
+**Objetivo:** Validar que los formularios sean usables en mobile.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Revisar campos, etiquetas y mensajes de error.
+
+**Resultado esperado:**  
+Los campos se adaptan al ancho y no se superponen.
+
+---
+
+## 📱 TC-R06 – Validar que no existan elementos ocultos
+**Objetivo:** Verificar que no haya contenido inaccesible en mobile.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Recorrer toda la página.
+
+**Resultado esperado:**  
+No hay textos o botones fuera de pantalla.
+
+---
+
+## 📱 TC-R07 – Verificar comportamiento en tablet (768px)
+**Objetivo:** Validar que el sitio se adapte correctamente a pantallas medianas.
+
+**Pasos:**
+1. Activar vista tablet (768px).
+2. Revisar estructura, columnas y secciones.
+
+**Resultado esperado:**  
+El layout se reorganiza correctamente sin romperse.
+
+---
+
+## 💻 TC-R08 – Verificar visualización en desktop (1366px+)
+**Objetivo:** Validar que el sitio se vea correctamente en pantallas grandes.
+
+**Pasos:**
+1. Activar vista desktop.
+2. Revisar distribución del contenido.
+
+**Resultado esperado:**  
+No hay espacios vacíos excesivos ni elementos desalineados.
+
+---
+
+## 💻 TC-R09 – Validar que el contenido sea consistente entre dispositivos
+**Objetivo:** Verificar que no falte contenido en ninguna vista.
+
+**Pasos:**
+1. Comparar Home en mobile, tablet y desktop.
+2. Revisar secciones destacadas, banners y enlaces.
+
+**Resultado esperado:**  
+El contenido es el mismo en todas las vistas.
+
+---
+
+## 🔄 TC-R10 – Validar comportamiento al rotar pantalla
+**Objetivo:** Verificar que el sitio se adapte al cambiar orientación.
+
+**Pasos:**
+1. Activar vista mobile.
+2. Rotar a landscape.
+3. Volver a portrait.
+
+**Resultado esperado:**  
+El sitio se adapta sin errores ni desbordes.
+
+---
 
