@@ -1,1 +1,24 @@
+# ¿Qué es QA Manual?
+
+El QA Manual (Quality Assurance Manual) es el proceso de asegurar la calidad de un producto mediante pruebas realizadas por una persona, sin automatización. El objetivo es detectar defectos, validar funcionalidades y garantizar que el producto cumpla con los requisitos.
+
+## ¿Qué hace un QA Manual?
+
+- Diseña casos de prueba
+- Ejecuta pruebas funcionales y exploratorias
+- Reporta bugs con claridad
+- Valida accesibilidad, usabilidad y contenido
+- Documenta hallazgos y resultados
+- Colabora con equipos de desarrollo y diseño
+
+## ¿Por qué es importante?
+
+Porque permite:
+
+- Detectar errores antes de que lleguen al usuario final
+- Mejorar la experiencia de uso
+- Reducir costos de mantenimiento
+- Asegurar que el producto sea confiable y accesible
+
+El QA Manual es una parte esencial del ciclo de desarrollo de software.
 
