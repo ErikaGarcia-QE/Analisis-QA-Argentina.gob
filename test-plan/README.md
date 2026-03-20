@@ -1,3 +1,38 @@
+# 📄 Casos de Prueba
+
+Esta carpeta contiene los casos de prueba diseñados para el análisis QA del sitio https://www.argentina.gob.ar/.
+
+Los casos están organizados por módulos y tipo de prueba, con un enfoque didáctico y práctico.
+
+## 📌 Contenido
+
+- `casos-de-prueba-home.md`  
+  Casos de prueba funcionales y exploratorios de la página principal.
+
+- `casos-de-prueba-buscador.md`  
+  Validaciones del buscador principal, relevancia de resultados y comportamiento esperado.
+
+- `casos-de-prueba-accesibilidad.md`  
+  Pruebas basadas en criterios WCAG 2.1 AA.
+
+- `casos-de-prueba-responsive.md`  
+  Validaciones en mobile, tablet y desktop.
+
+- `matriz-de-trazabilidad.xlsx` (opcional)  
+  Relación entre requerimientos, casos de prueba y bugs.
+
+## 🎯 Objetivo
+
+Documentar de forma clara y profesional el proceso de testing, mostrando:
+
+- Diseño de pruebas
+- Cobertura funcional
+- Organización por módulos
+- Ejemplos prácticos para portafolio
+
+_
+
+
 # Plan de Pruebas – Analisis-QA-Argentina.gob
 
 ## 1. Introducción
