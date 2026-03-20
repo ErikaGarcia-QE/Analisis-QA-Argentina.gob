@@ -1,1 +1,32 @@
+# 🐞 Reportes de Bugs
+
+Esta carpeta contiene los defectos encontrados durante el análisis QA del sitio https://www.argentina.gob.ar/.
+
+Cada bug está documentado siguiendo buenas prácticas profesionales:
+
+- Título descriptivo  
+- Severidad  
+- Prioridad  
+- Pasos para reproducir  
+- Resultado esperado  
+- Resultado obtenido  
+- Evidencia (capturas o descripción)
+
+## 📌 Contenido
+
+- `bug-001-buscador-no-filtra.md`
+- `bug-002-link-roto-tramites.md`
+- `bug-003-contraste-insuficiente.md`
+
+Dentro de la carpeta `evidencias/` se incluyen capturas o videos que respaldan los reportes.
+
+## 🎯 Objetivo
+
+Mostrar la capacidad de:
+
+- Identificar defectos reales
+- Documentarlos de forma clara
+- Priorizar según impacto
+- Aportar evidencia útil para desarrolladores
+
 
