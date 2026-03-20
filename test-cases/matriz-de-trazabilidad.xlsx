@@ -1,1 +1,51 @@
+# Matriz de Trazabilidad
+
+Esta matriz relaciona los requisitos del sistema con los casos de prueba y los bugs detectados durante el proceso de QA.
+
+---
+
+## 📌 Leyenda
+- **REQ:** Requisito  
+- **TC:** Caso de prueba  
+- **BUG:** Defecto asociado  
+
+---
+
+# 📊 Matriz
+
+| REQ ID | Descripción del Requisito | Casos de Prueba Asociados | Bugs Detectados |
+|--------|----------------------------|----------------------------|------------------|
+| REQ-01 | El Home debe cargar correctamente sin errores | TC-H01, TC-H06, TC-H07 | — |
+| REQ-02 | El buscador debe permitir realizar búsquedas válidas | TC-B01, TC-B03, TC-B04, TC-B08 | BUG-001 |
+| REQ-03 | El buscador debe manejar búsquedas inválidas | TC-B02, TC-B09 | — |
+| REQ-04 | El buscador debe ser accesible por teclado | TC-B06, TC-B07 | — |
+| REQ-05 | El menú principal debe funcionar en desktop y mobile | TC-H05, TC-R02 | — |
+| REQ-06 | El sitio debe ser responsive en mobile, tablet y desktop | TC-R01, TC-R03, TC-R04, TC-R05, TC-R07, TC-R08, TC-R10 | — |
+| REQ-07 | Las imágenes deben cargar correctamente | TC-H06, TC-R03 | — |
+| REQ-08 | El contenido debe ser claro, legible y sin errores | TC-H07 | — |
+| REQ-09 | El sitio debe cumplir criterios básicos de accesibilidad | TC-A01, TC-A02, TC-A03, TC-A04, TC-A05, TC-A06, TC-A07, TC-A08 | BUG-003 |
+| REQ-10 | Los enlaces del Home deben funcionar correctamente | TC-H04, TC-B10 | BUG-002 |
+
+---
+
+# ✔ Resumen
+
+- **10 requisitos cubiertos**  
+- **30+ casos de prueba asociados**  
+- **3 bugs trazados correctamente**  
+- Cobertura completa de:  
+  - Home  
+  - Buscador  
+  - Responsive  
+  - Accesibilidad  
+
+---
+
+# 📌 Notas
+
+- La matriz se puede expandir cuando agregues nuevos módulos.  
+- Si sumás automatización, podés agregar una columna “TC-AUTO”.  
+- Si agregás severidad/prioridad, podés incluir una columna “Impacto”.  
+
+---
 
